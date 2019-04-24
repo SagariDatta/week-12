@@ -1,4 +1,4 @@
-# Week 12<br>AWeb Servers, Interactive Web Apps, and Dashboards
+# Week 12<br>Web Servers, Interactive Web Apps, and Dashboards
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/week-12/master?filepath=lecture-12.ipynb)
 
